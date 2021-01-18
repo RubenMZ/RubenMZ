@@ -8,10 +8,10 @@ music and every Xiaomi product.
 
 ### Work Experience
 
-**NoSoloSoftware Network S.L.** @ FullStack Developer
+**NoSoloSoftware Network S.L.** - FullStack Developer
 _(February 2018 - Today)_
 
-**What You Look For S.L.** @ FullStack Developer
+**What You Look For S.L.** - FullStack Developer
 _(February 2017 - February 2018)_
 
 ### Skills
