@@ -14,6 +14,11 @@ _(February 2018 - Today)_
 **What You Look For S.L.** @ FullStack Developer
 _(February 2017 - February 2018)_
 
+### Skills
+
+Ruby on Rails 
+Vue.js
+
 <!--
 **RubenMZ/RubenMZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
