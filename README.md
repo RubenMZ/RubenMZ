@@ -17,7 +17,12 @@ _(February 2017 - February 2018)_
 ### Skills
 
 Ruby on Rails 
+
 Vue.js
+
+PostgreSQL/MongoDB
+
+DialogFlow
 
 <!--
 **RubenMZ/RubenMZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
