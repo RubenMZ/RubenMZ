@@ -8,8 +8,11 @@ music and every Xiaomi product.
 
 ### Work Experience
 
+**Factorial HR** - FullStack Developer
+_(October 2021 - Today)_
+
 **NoSoloSoftware Network S.L.** - FullStack Developer
-_(February 2018 - Today)_
+_(February 2018 - September 2021)_
 
 **What You Look For S.L.** - FullStack Developer
 _(February 2017 - February 2018)_
